@@ -26,30 +26,30 @@
                                 from stress? Our publishers are here to assist you in publishing your book with ease and
                                 effectiveness.</p>
                             <div class="banner-btns btn-darks animate__animated animate__fadeInUp">
-                                <a class="bg-dark-btn btn btn-dark-new" href="tel:+1 (771) 203-5560"> Call Now</a>
-                                <a class="button-28" onclick="setButtonURL()" role="button"> Talk to our consultant </a>
+                                <a class="bg-dark-btn btn btn-dark-new" href="tel:(323) 591-4113"> Call Now</a>
+                                <a class="button-28" onclick="LiveChatWidget.call('maximize');" role="button"> Talk to our consultant </a>
                             </div>
-                            <div class="trust-icons mt-4 animate__animated animate__fadeInUp">
+                            <!-- <div class="trust-icons mt-4 animate__animated animate__fadeInUp">
                                 <ul class="trust-wigdetul">
                                     <li>
                                         <a href="https://www.trustpilot.com/review/authorpublications.com" target="_blank"><img src="images/orm-1.png"></a>
-                                        <!-- <a href="https://www.sitejabber.com/reviews/authorpublications.com" target="_blank"><img src="images/orm-2.png"></a> -->
+                                        <a href="https://www.sitejabber.com/reviews/authorpublications.com" target="_blank"><img src="images/orm-2.png"></a>
                                         <a href="https://www.reviews.io/company-reviews/store/www.authorpublications.com" target="_blank"><img src="images/orm-3.png"></a>
                                         <a href="https://www.bark.com/en/us/company/author-publications/EBLAM/" target="_blank"><img src="images/orm-4.png" class="barkk"></a>
                                     </li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="col-12 col-xl-4 col-md-12">
-                        <form class="form_submission" style="padding: 5px;" method="POST" action="/leads/">
+                        <form class="form_submission" style="padding: 5px;" method="POST" action="/leads">
                             <div class="hero-banner-form">
                                 <div class="row d-flex align-items-center">
                                     <div class="col-md-3">
                                         <img src="images/my-images/off.png"
                                             class="percentfifty animatepulse animate__animated animate__jackInTheBox"
                                             style="width : auto; margin-top: -20px; margin-left: 0px;"
-                                            alt="50% Off - Native Book Authorss">
+                                            alt="50% Off - Native Book Authors">
                                     </div>
                                     <div class="col-md-9">
                                         <p class="">Fill Out This Brief Form To Get Your</p>
@@ -116,7 +116,7 @@
                     <div class="col-12 col-lg-6 d-flex align-items-center">
                         <div>
                             <h2 class="sec-heading-new headline">Pen to Paper, Dream to Book—We've Got You!</h2>
-                            <p class="text-dark delay1">At Native Book Authorss, we polish up your manuscript from
+                            <p class="text-dark delay1">At Native Book Authors, we polish up your manuscript from
                                 ordinary to exceptional. Our comprehensive publishing services include skilled
                                 ghostwriters, meticulous editors, and strategic marketers dedicated to transforming your
                                 ideas into a published masterpiece. From crafting an engaging table of contents to
@@ -144,7 +144,7 @@
                             </div>
                             <div class="banner-btns btn-darks mt-2" data-aos="fade-up" data-aos-delay="400"
                                 data-aos-easing="ease-in-out">
-                                <a class="bg-dark-btn btn btn-dark-new" href="tel:+1 (771) 203-5560"> Call Now</a>
+                                <a class="bg-dark-btn btn btn-dark-new" href="tel:(323) 591-4113"> Call Now</a>
                                 <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                             </div>
                         </div>
@@ -160,11 +160,11 @@
                     <div class="align-items-center pt-4 row">
                         <div class="col-12 col-lg-6"><img src="loader.gif" data-src="images/my-images/book-right.png"
                                 class="lazyestload img-fluid animate__animated animate__fadeInUp"
-                                alt="Hire The Best Native Book Authorss">
+                                alt="Hire The Best Native Book Authors">
                         </div>
                         <div class="col-12 col-lg-6">
                             <div>
-                                <h2 class="sec-heading-new">Why Choose Native Book Authorss for Your Book Publishing
+                                <h2 class="sec-heading-new">Why Choose Native Book Authors for Your Book Publishing
                                     Journey?</h2>
                                 <p>We focus intently on transforming your manuscript into a published masterpiece. As a
                                     leading publishing agency, we equip you with top-tier ghostwriters, editors, and
@@ -232,17 +232,17 @@
                 <div class="justify-content-between row">
                     <div class="col-md-6 d-flex justify-content-center">
                         <img src="loader.gif" data-src="images/my-images/book-review.png" class="lazyestload img-fluid"
-                            alt="Why Choose Native Book Authorss">
+                            alt="Why Choose Native Book Authors">
                     </div>
                     <div class="col-md-6 d-flex align-items-center pt-3">
                         <div>
                             <h2 class="sec-heading-new">The Best Book Publishing Services – A Bestseller Awaits.</h2>
-                            <p class="text-dark">At Native Book Authorss, we house experienced writing professionals who
+                            <p class="text-dark">At Native Book Authors, we house experienced writing professionals who
                                 have made their mark in every field of book writing. No matter the genre or format,
                                 we’ve mastered them all. Our process is systematic, legitimate, and fast. With our
                                 team's excellence and expertise, we’ve successfully transformed hundreds of aspiring
                                 writers around the world into published authors with award-winning credentials.</p>
-                            <p class="text-dark">Native Book Authorss deliver end-to-end book publishing services. We
+                            <p class="text-dark">Native Book Authors deliver end-to-end book publishing services. We
                                 help you professionally design, publish a book, and promote books on the platform of
                                 your choosing. It’s our goal to make life easy for aspiring authors and be the go-to
                                 book publisher for new authors. Our professionals have the industry knowledge and
@@ -329,16 +329,16 @@
                             <a class="btn btn-cta open_popup" style="background-color : #3bbbc2; padding : 6px 10px;">
                                 Get
                                 Consultation</a>
-                            <button class="btn btn-cta cta-btn2 chatt" href="javascript:void(0);"
-                                onclick="setButtonURL()">Live Chat</button>
+                            <button class="btn btn-cta cta-btn2 chatt" href="javascript:;"
+                                onclick="LiveChatWidget.call('maximize');">Live Chat</button>
                         </div>
-                        <a href="tel:+1 (771) 203-5560">
-                            <h6 class="badge my-3">Toll Free: +1 (771) 203-5560</h6>
+                        <a href="tel:(323) 591-4113">
+                            <h6 class="badge my-3">Toll Free: (323) 591-4113</h6>
                         </a>
                     </div>
                     <div class="col-md-6">
                         <img src="loader.gif" data-src="./images/my-images/cta-side-image.png" id="removeimg"
-                            class="lazyestload my-cta-parallex" alt="Call to Action - Native Book Authorss">
+                            class="lazyestload my-cta-parallex" alt="Call to Action - Native Book Authors">
                     </div>
                 </div>
             </div>
@@ -424,7 +424,7 @@
                                             audience
                                             engaged until the end.</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -447,7 +447,7 @@
                                             our
                                             professional book writers today if you want to be a children's author.</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -471,7 +471,7 @@
                                             your
                                             project because they have years of experience creating fantasy novels. </p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -494,7 +494,7 @@
                                             message, and we'll take over your project and put your thoughts into words.
                                         </p>
                                         <div class="banner-btns btn-darks">
-                                            <a class="bg-dark-btn btn btn-dark-new" href="tel:+1 (771) 203-5560"> Call
+                                            <a class="bg-dark-btn btn btn-dark-new" href="tel:(323) 591-4113"> Call
                                                 Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
@@ -519,7 +519,7 @@
                                             with us.
                                         </p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -541,7 +541,7 @@
                                             with the
                                             world if you have one in mind. Publish a drama book with our help today.</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -564,7 +564,7 @@
                                             necessary to
                                             produce content on various subjects.</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -591,7 +591,7 @@
                                             of endearing and magical fictional characters.
                                         </p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -617,7 +617,7 @@
                                             the
                                             same for you!</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -651,7 +651,7 @@
 
                         </div>
                         <div class="box-features-section">
-                            <p>Expert Book Editing</p>
+                            <p style="color:white;">Expert Book Editing</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Editorial Review</span>
@@ -680,7 +680,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Fresh Perspective</span>
                             </div>
-                            <p>Book Formatting (In accordance with the International Publication Standards):</p>
+                            <p style="color:white;">Book Formatting (In accordance with the International Publication Standards):</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Trim size</span>
@@ -709,7 +709,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Widows & orphans</span>
                             </div>
-                            <p>3D Book Cover Mock Up (Contemporary Trends)</p>
+                            <p style="color:white;">3D Book Cover Mock Up (Contemporary Trends)</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Complete Cover Design (Front, back and spine)</span>
@@ -734,7 +734,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Publishing books in all 3 formats: eBook, Paperback, Hardcover</span>
                             </div>
-                            <p>Publishing Platforms:</p>
+                            <p style="color:white;">Publishing Platforms:</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Amazon</span>
@@ -747,7 +747,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Barnes & Noble</span>
                             </div>
-                            <p>Additional Features:</p>
+                            <p style="color:white;">Additional Features:</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Unlimited Revisions</span>
@@ -781,7 +781,7 @@
                             </div>
                         </div>
                         <div class="box-features-section">
-                            <p>Expert Book Editing</p>
+                            <p style="color:white;">Expert Book Editing</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Editorial Review</span>
@@ -806,7 +806,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Fresh Perspective</span>
                             </div>
-                            <p>Book Formatting (In accordance with the International Publication Standards):</p>
+                            <p style="color:white;">Book Formatting (In accordance with the International Publication Standards):</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Trim size</span>
@@ -835,7 +835,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Widows & orphans</span>
                             </div>
-                            <p>3D Book Cover Mock Up (Contemporary Trends)</p>
+                            <p style="color:white;">3D Book Cover Mock Up (Contemporary Trends)</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Complete Cover Design (Front, back and spine)</span>
@@ -860,7 +860,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Publishing books in all 3 formats: eBook, Paperback, Hardcover</span>
                             </div>
-                            <p>Publishing Platforms:</p>
+                            <p style="color:white;">Publishing Platforms:</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Amazon</span>
@@ -893,7 +893,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Kobo</span>
                             </div>
-                            <p>Additional Features: </p>
+                            <p style="color:white;">Additional Features: </p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Dedicated Support Team</span>
@@ -927,7 +927,7 @@
                             </div>
                         </div>
                         <div class="box-features-section">
-                            <p>Expert Book Editing</p>
+                            <p style="color:white;">Expert Book Editing</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Editorial Review</span>
@@ -952,7 +952,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Fresh Perspective</span>
                             </div>
-                            <p>Book Formatting (In accordance with the International Publication Standards):</p>
+                            <p style="color:white;">Book Formatting (In accordance with the International Publication Standards):</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Trim size</span>
@@ -981,7 +981,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Widows & orphans</span>
                             </div>
-                            <p>3D Book Cover Mock Up (Contemporary Trends)</p>
+                            <p style="color:white;">3D Book Cover Mock Up (Contemporary Trends)</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Complete Cover Design (Front, back and spine)</span>
@@ -1006,7 +1006,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Publishing books in all 3 formats: eBook, Paperback, Hardcover</span>
                             </div>
-                            <p>Publishing Platforms:</p>
+                            <p style="color:white;">Publishing Platforms:</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Amazon</span>
@@ -1067,7 +1067,7 @@
                                 <i class="fas fa-check"></i>
                                 <span>Booktopia</span>
                             </div>
-                            <p>Additional Features:</p>
+                            <p style="color:white;">Additional Features:</p>
                             <div class="features-box">
                                 <i class="fas fa-check"></i>
                                 <span>Dedicated Support Team</span>
@@ -1434,7 +1434,7 @@
                     </div>
                 </div>
                 <div class="justify-content-center pt-3 row text-center">
-                    <div class="col"><a class="bg-dark-btn btn btn-dark-new mr-3" href="tel:+1 (771) 203-5560"> Call
+                    <div class="col"><a class="bg-dark-btn btn btn-dark-new mr-3" href="tel:(323) 591-4113"> Call
                             Now</a>
                         <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                     </div>
@@ -1713,7 +1713,7 @@
                                 <p style="color : #000">Schedule an appointment with our book writers and start
                                     writing your
                                     first draft.</p>
-                                <form class="form_submission" method="POST" action="/leads/">
+                                <form class="form_submission" method="POST" action="/leads">
                                     <div class="mb-4"><input class="form-control footer-form" name="name"
                                             placeholder="Full Name" required></div>
                                     <div class="mb-4"><input type="email" class="form-control footer-form" name="email"

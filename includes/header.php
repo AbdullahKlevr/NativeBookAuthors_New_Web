@@ -2,12 +2,12 @@
     <div class="text-white fs-15 position-relative" style="background-color : black; z-: 1;">
         <div class="container py-2 d-flex">
             <div class="d-flex justify-content-start animate__animated animate__fadeInLeft animate__slow">
-                <p class="mb-0"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+1 (771) 203-5560"
-                        class="text-white">+1 (771) 203-5560</a></p>
+                <p class="mb-0"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:(323) 591-4113"
+                        class="text-white">(323) 591-4113</a></p>
                 &nbsp;&nbsp;&nbsp;
                 <p class="mb-0"><i class="fa fa-envelope" aria-hidden="true"></i> <a
-                        href="mailto:support@authorpublications.com" class="text-white">
-                        support@authorpublications.com</a></p>
+                        href="mailto:info@nativebookauthors.com" class="text-white">
+                        info@nativebookauthors.com</a></p>
             </div>
             <div id="hideinmobile"
                 class="d-flex justify-content-end ms-auto animate__animated animate__fadeInRight animate__slow">
@@ -25,7 +25,7 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg">
             <a class="navbar-brand" href="/">
-                <img src="images/logo.png" alt="logo"
+                <img src="images/nativebookauthorslogo.png" alt="logo"
                     class="logo animate__animated animate__fadeInLeft animate__slow"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -68,30 +68,30 @@
                         <ul class="dropdown-menu dropdown-menu-big" aria-labelledby="navbarDropdown">
                             <li>
                                 <a class="dropdown-item" href="/ghostwriting-services">Ghostwriting Services</a>
-                                <a class="dropdown-item" href="/story-writing">Story Writing</a>
-                                <a class="dropdown-item" href="/song-writing">Song Writing Services</a>
+                                <!-- <a class="dropdown-item" href="/story-writing">Story Writing</a> -->
+                                <!-- <a class="dropdown-item" href="/song-writing">Song Writing Services</a> -->
                                 <a class="dropdown-item" href="/memoir-writing">Memoir Writing</a>
                                 <a class="dropdown-item" href="/nonfiction-writing">Non-Fiction Writing Services</a>
-                                <a class="dropdown-item" href="/rhymes-writing">Rhyme Writing</a>
-                                <a class="dropdown-item" href="/climate-book-writing">Climate Book Writing</a>
+                                <!-- <a class="dropdown-item" href="/rhymes-writing">Rhyme Writing</a> -->
+                                <!-- <a class="dropdown-item" href="/climate-book-writing">Climate Book Writing</a> -->
                                 <a class="dropdown-item" href="/fiction-writing/">Fiction Writing</a>
                             </li>
                             <li>
                                 <a class="dropdown-item" href="/biography-writing">Biography Writing</a>
                                 <a class="dropdown-item" href="/autobiography-writing">Autobiography</a>
                                 <a class="dropdown-item" href="/seo-content-writing">SEO Content Writing</a>
-                                <a class="dropdown-item" href="/script-writing">Script Writing</a>
-                                <a class="dropdown-item" href="/narrative-writing">Narrative Writing</a>
+                                <!-- <a class="dropdown-item" href="/script-writing">Script Writing</a> -->
+                                <!-- <a class="dropdown-item" href="/narrative-writing">Narrative Writing</a> -->
                                 <a class="dropdown-item" href="/novel-writing">Novel Writing</a>
-                                <a class="dropdown-item" href="/cook-book-writing">Cook Book Writing </a>
-                                <a class="dropdown-item" href="/action-adventure-writing">Action Adventure</a>
+                                <!-- <a class="dropdown-item" href="/cook-book-writing">Cook Book Writing </a> -->
+                                <!-- <a class="dropdown-item" href="/action-adventure-writing">Action Adventure</a> -->
                             </li>
                             <li>
-                                <a class="dropdown-item" href="/wiki-writing">Wiki Writing</a>
-                                <a class="dropdown-item" href="/speech-writing">Speech Writing</a>
+                                <!-- <a class="dropdown-item" href="/wiki-writing">Wiki Writing</a> -->
+                                <!-- <a class="dropdown-item" href="/speech-writing">Speech Writing</a> -->
                                 <a class="dropdown-item" href="/comedy-writing">Comedy Writing</a>
-                                <a class="dropdown-item" href="/movie-writing">Movie Writing</a>
-                                <a class="dropdown-item" href="/military-fiction-writing">Military Fiction Writing</a>
+                                <!-- <a class="dropdown-item" href="/movie-writing">Movie Writing</a> -->
+                                <!-- <a class="dropdown-item" href="/military-fiction-writing">Military Fiction Writing</a> -->
                                 <a class="dropdown-item" href="/comic-writing">Comic Book Writing</a>
                                 <a class="dropdown-item" href="/ebook-writing-services">eBook Writing Services</a>
                                 <a class="dropdown-item" href="/fantasy-writing">Fantasy Writing</a>
@@ -99,10 +99,10 @@
                             <li>
                                 <a class="dropdown-item" href="/children-book-writing">Children's Books</a>
                                 <a class="dropdown-item" href="/fiction-writing">Fiction Writing</a>
-                                <a class="dropdown-item" href="/screen-writing">Screen Writing</a>
-                                <a class="dropdown-item" href="/business-books-services">Business Book Writing</a>
-                                <a class="dropdown-item" href="/hiphop-writing">Hiphop Writing</a>
-                                <a class="dropdown-item" href="/science-fiction-writing">Sci-Fi Writing</a>
+                                <!-- <a class="dropdown-item" href="/screen-writing">Screen Writing</a> -->
+                                <!-- <a class="dropdown-item" href="/business-books-services">Business Book Writing</a> -->
+                                <!-- <a class="dropdown-item" href="/hiphop-writing">Hiphop Writing</a> -->
+                                <!-- <a class="dropdown-item" href="/science-fiction-writing">Sci-Fi Writing</a> -->
                                 <a class="dropdown-item" href="/horror-book-writing">Horror Writing</a>
                                 <a class="dropdown-item" href="/romance-writing-services">Romance Writing</a>
                             </li>
@@ -115,7 +115,7 @@
                             <li>
                                 <a class="dropdown-item" href="/book-cover-designer">Book Cover Designer</a>
                                 <a class="dropdown-item" href="/illustration-services">Illustration Services</a>
-                                <a class="dropdown-item" href="/book-video-trailer">Book Trailer</a>
+                                <!-- <a class="dropdown-item" href="/book-video-trailer">Book Trailer</a> -->
                                 <a class="dropdown-item" href="/children-book-illustration">Children Book
                                     Illustration</a>
                                 <a class="dropdown-item" href="/comic-book-illustration">Comic Book Illustration</a>
@@ -134,14 +134,14 @@
                             <li>
                                 <a class="dropdown-item" href="/audiobook-narrators">Audio Book Narrators</a>
                                 <a class="dropdown-item" href="/book-printing">Book Printing</a>
-                                <a class="dropdown-item" href="/book-translation-services">Book Translation
-                                    Services</a>
-                                <a class="dropdown-item" href="/spanish-book-translation">Spanish Translation</a>
-                                <a class="dropdown-item" href="/comic-book-translation">Comic Book Translation</a>
-                                <a class="dropdown-item" href="/french-translation">French Translation</a>
-                                <a class="dropdown-item" href="/arabic-translation">Arabic Translation</a>
-                                <a class="dropdown-item" href="/german-book-translation">German Book Translation</a>
-                                <a class="dropdown-item" href="/chinese-book-translation">Chinese Book Translation</a>
+                                <!-- <a class="dropdown-item" href="/book-translation-services">Book Translation -->
+                                    <!-- Services</a> -->
+                                <!-- <a class="dropdown-item" href="/spanish-book-translation">Spanish Translation</a> -->
+                                <!-- <a class="dropdown-item" href="/comic-book-translation">Comic Book Translation</a> -->
+                                <!-- <a class="dropdown-item" href="/french-translation">French Translation</a> -->
+                                <!-- <a class="dropdown-item" href="/arabic-translation">Arabic Translation</a> -->
+                                <!-- <a class="dropdown-item" href="/german-book-translation">German Book Translation</a> -->
+                                <!-- <a class="dropdown-item" href="/chinese-book-translation">Chinese Book Translation</a> -->
                             </li>
                         </ul>
                     </li>
@@ -159,8 +159,8 @@
                     </li>
                 </ul>
                 <div class="navbar-buttons">
-                    <a href="tel:+1 (771) 203-5560" class="call-btn">Call Now</a>
-                    <a href="javascript:void(0);" onclick="setButtonURL()" class="call-btn">Live Chat</a>
+                    <a href="tel:(323) 591-4113" class="call-btn">Call Now</a>
+                    <a href="javascript:void(0);" onclick="LiveChatWidget.call('maximize');" class="call-btn">Live Chat</a>
                 </div>
             </div>
         </nav>

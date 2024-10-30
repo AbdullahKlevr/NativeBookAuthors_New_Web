@@ -10,7 +10,7 @@
                         <div class="modal-body-form">
                             <h5>Limited Time Offer</h5>
                             <h3><span>50%</span> Off on<br>all services!</h3>
-                            <form class="form_submission" method="POST" action="/leads/">
+                            <form class="form_submission" method="POST" action="/leads">
                                 <div class="popup-form-list">
                                     <div class="form-group"><input name="name" placeholder="Full Name" required>
                                     </div>
@@ -61,7 +61,7 @@
                             <h5 id="modalCompanyTitle" class="pb-3" style="color : #e35b5b; font-weight: 700;">
                                 Writers
                                 Of USA</h5>
-                            <form class="form_submission" method="POST" action="/leads/">
+                            <form class="form_submission" method="POST" action="/leads">
                                 <div class="popup-form-list">
                                     <div class="form-group"><input name="name" placeholder="Full Name" required>
                                     </div>
@@ -110,7 +110,7 @@
                         <div class="modal-body-form">
                             <h5 id="dynamic_heading"></h5>
                             <h3><span>50%</span> Off on<br>all services!</h3>
-                            <form class="form_submission" method="POST" action="/leads/">
+                            <form class="form_submission" method="POST" action="/leads">
                                 <div class="popup-form-list">
                                     <div class="form-group"><input name="name" placeholder="Full Name" required>
                                     </div>

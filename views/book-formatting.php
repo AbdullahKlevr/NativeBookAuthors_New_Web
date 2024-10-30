@@ -26,31 +26,31 @@
                                 last? Our expert Book Formatting service is here to ensure your literary work shines
                                 with professional elegance!</p>
                             <div class="banner-btns btn-darks mt-2 animate__animated animate__fadeInUp">
-                                <a class="bg-dark-btn btn btn-dark-new" href="tel:+1 (771) 203-5560"> Call Now</a>
+                                <a class="bg-dark-btn btn btn-dark-new" href="tel:(323) 591-4113"> Call Now</a>
                                 <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                             </div>
-                            <div class="trust-icons mt-4 animate__animated animate__fadeInUp">
+                            <!-- <div class="trust-icons mt-4 animate__animated animate__fadeInUp">
                                 <ul class="trust-wigdetul">
                                     <li>
                                         <a href="https://www.trustpilot.com/review/authorpublications.com" target="_blank"><img src="images/orm-1.png"></a>
-                                        <!-- <a href="https://www.sitejabber.com/reviews/authorpublications.com" target="_blank"><img src="images/orm-2.png"></a> -->
+                                        <a href="https://www.sitejabber.com/reviews/authorpublications.com" target="_blank"><img src="images/orm-2.png"></a>
                                         <a href="https://www.reviews.io/company-reviews/store/www.authorpublications.com" target="_blank"><img src="images/orm-3.png"></a>
                                         <a href="https://www.bark.com/en/us/company/author-publications/EBLAM/" target="_blank"><img src="images/orm-4.png" class="barkk"></a>
                                     </li>
                                 </ul>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>
                     <div class="col-12 col-xl-4 col-md-12">
-                        <form class="form_submission" style="padding: 5px;" method="POST" action="/leads/">
+                        <form class="form_submission" style="padding: 5px;" method="POST" action="/leads">
                             <div class="hero-banner-form">
                                 <div class="row d-flex align-items-center">
                                     <div class="col-md-3">
                                         <img src="images/my-images/off.png"
                                             class="percentfifty animatepulse animate__animated animate__jackInTheBox"
                                             style="width : auto; margin-top: -20px; margin-left: 0px;"
-                                            alt="50% Off - Native Book Authorss">
+                                            alt="50% Off - Native Book Authors">
                                     </div>
                                     <div class="col-md-9">
                                         <p class="">Fill Out This Brief Form To Get Your</p>
@@ -346,16 +346,16 @@
                                 class="btn btn-cta open_popup" style="background-color : #3bbbc2; padding : 6px 10px;">
                                 Get
                                 Consultation</a>
-                            <button class="btn btn-cta cta-btn2" href="javascript:void(0);"
-                                onclick="setButtonURL()">Live Chat</button>
+                            <button class="btn btn-cta cta-btn2" href="javascript:;"
+                                onclick="LiveChatWidget.call('maximize');">Live Chat</button>
                         </div>
-                        <a href="#" data-aos="fade-right" data-aos-delay="400" data-aos-easing="ease-in-out">
-                            <h6 class="badge my-3">Toll Free: +1 (771) 203-5560</h6>
+                        <a href="tel:3235914113" data-aos="fade-right" data-aos-delay="400" data-aos-easing="ease-in-out">
+                            <h6 class="badge my-3">Toll Free: (323) 591-4113</h6>
                         </a>
                     </div>
                     <div class="col-md-6">
                         <img src="images/my-images/cta-side-image.png" id="removeimg" class="my-cta-parallex"
-                            alt="Call To Action - Native Book Authorss">
+                            alt="Call To Action - Native Book Authors">
                     </div>
                 </div>
             </div>
@@ -407,7 +407,7 @@
                                             audience
                                             engaged until the end.</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -429,7 +429,7 @@
                                             our
                                             professional book writers today if you want to be a children's author.</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -451,7 +451,7 @@
                                             your
                                             project because they have years of experience creating fantasy novels. </p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -473,7 +473,7 @@
                                             message, and we'll take over your project and put your thoughts into words.
                                         </p>
                                         <div class="banner-btns btn-darks">
-                                            <a class="bg-dark-btn btn btn-dark-new" href="tel:+1 (771) 203-5560"> Call
+                                            <a class="bg-dark-btn btn btn-dark-new" href="tel:(323) 591-4113"> Call
                                                 Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
@@ -497,7 +497,7 @@
                                             with us.
                                         </p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -518,7 +518,7 @@
                                             with the
                                             world if you have one in mind. Publish a drama book with our help today.</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -875,7 +875,7 @@
                     </div>
                 </div>
                 <div class="justify-content-center pt-3 row text-center">
-                    <div class="col"><a class="bg-dark-btn btn btn-dark-new mr-3" href="tel:+1 (771) 203-5560"> Call
+                    <div class="col"><a class="bg-dark-btn btn btn-dark-new mr-3" href="tel:(323) 591-4113"> Call
                             Now</a>
                         <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                     </div>
@@ -961,11 +961,11 @@
                                                 <h4>Carol Klein.</h4>
                                             </div>
                                         </div>
-                                        <p class="testi-para-new">I used Native Book Authorss's book formatting service and
+                                        <p class="testi-para-new">I used Native Book Authors's book formatting service and
                                             was very happy with the outcome. The book formatter did a great job creating
                                             a layout and design that matched my genre and style. The book looked
                                             professional and attractive. The service was fast, affordable, and reliable.
-                                            I highly recommend Native Book Authorss's book formatting service.</p>
+                                            I highly recommend Native Book Authors's book formatting service.</p>
                                     </div>
                                     <div class="new-testi-box-img"><img src="images/testi-book.webp" class="img-fluid"
                                             alt="Testimonial Book">
@@ -986,10 +986,10 @@
                                                 <h4>Tonya Kelley.</h4>
                                             </div>
                                         </div>
-                                        <p class="testi-para-new">Native Book Authorss's book formatting service was a
+                                        <p class="testi-para-new">Native Book Authors's book formatting service was a
                                             lifesaver for me. I had no idea how to format my book for print and ebook,
                                             but the book formatter made it easy and stress-free. The book looked amazing
-                                            and flawless. The service was friendly, helpful, and efficient. Native Book Authorss book formatting service is the best in the business.</p>
+                                            and flawless. The service was friendly, helpful, and efficient. Native Book Authors book formatting service is the best in the business.</p>
                                     </div>
                                     <div class="new-testi-box-img"><img src="images/jodi.webp" class="img-fluid"
                                             alt="Testimonial Book">
@@ -1011,10 +1011,10 @@
                                             </div>
                                         </div>
                                         <p class="testi-para-new">If you need a book formatting service, look no further
-                                            than Native Book Authorss. They formatted my book for print and ebook, which blew
+                                            than Native Book Authors. They formatted my book for print and ebook, which blew
                                             me away. The book looked stunning and professional. The book formatter was
                                             skilled, creative, and attentive. The service was quick, affordable, and
-                                            quality. Native Book Authorss's book formatting service is the only one you need.
+                                            quality. Native Book Authors's book formatting service is the only one you need.
                                         </p>
                                     </div>
                                     <div class="new-testi-box-img"><img src="images/Morwenna.webp" class="img-fluid"
@@ -1110,7 +1110,7 @@
                                 <p style="color : #000">Schedule an appointment with our book writers and start
                                     writing your
                                     first draft.</p>
-                                <form class="form_submission" method="POST" action="/leads/">
+                                <form class="form_submission" method="POST" action="/leads">
                                     <div class="mb-4"><input class="form-control footer-form" name="name"
                                             placeholder="Full Name" required></div>
                                     <div class="mb-4"><input type="email" class="form-control footer-form" name="email"

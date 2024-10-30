@@ -138,7 +138,7 @@ header nav.navbar .navbar-buttons {
 }
 
 header nav.navbar .navbar-buttons a.call-btn {
-    background: #3bbbc2;
+    background: #212f64;
     color: #fff;
     font-size: 16px;
     width: 150px;
@@ -153,7 +153,7 @@ header nav.navbar .navbar-buttons a.call-btn {
 
 header nav.navbar .navbar-buttons a.call-btn:hover {
     transform: scale(1.1);
-    background: #fce181;
+    background: #c62524;
 }
 
 header .navbar-collapse ul.navbar-nav li.nav-item.dropdown {
@@ -175,7 +175,7 @@ header .navbar-nav .nav-item.dropdown button.dropdown-icon-btn {
 
 header .navbar-nav .nav-item ul.dropdown-menu li a.dropdown-item:focus,
 header .navbar-nav .nav-item ul.dropdown-menu li a.dropdown-item:hover {
-    background: #3bbbc2;
+    background: #212f64;
     color: #fff
 }
 
@@ -284,7 +284,7 @@ header .navbar-collapse ul.navbar-nav li.nav-item.dropdown.dropdown-single {
 }
 
 .banner-list li span i {
-    color: #3bbbc2;
+    color: #212f64;
     font-size: 16px;
     margin-right: 10px
 }
@@ -294,21 +294,21 @@ header .navbar-collapse ul.navbar-nav li.nav-item.dropdown.dropdown-single {
 }
 
 .btn:hover {
-    background-color: #fce181 !important;
+    background-color: #c62524 !important;
     color: #fff;
     border: none;
 }
 
 .bg-purple {
     color: #fff;
-    background-color: #3bbbc2
+    background-color: #212f64
 }
 
 .bg-purple:hover,
 .cta-btn2:hover {
     color: #fff;
     background-color: transparent;
-    border: 1px solid #3bbbc2
+    border: 1px solid #212f64
 }
 
 .hero-banner-form {
@@ -369,7 +369,7 @@ header .navbar-collapse ul.navbar-nav li.nav-item.dropdown.dropdown-single {
 .banner-form-new-btn {
     color: #fff;
     width: 100%;
-    background-color: #3bbbc2;
+    background-color: #212f64;
     padding: 15px 0;
     display: block;
     border: none
@@ -391,7 +391,7 @@ header .navbar-collapse ul.navbar-nav li.nav-item.dropdown.dropdown-single {
 .pt-sec-new .nav-tabs .nav-link {
     width: 155px;
     color: #fff;
-    background-color: #026670;
+    background-color: #06142d;
     border-radius: 5px;
     margin-right: 20px;
     font-size: 16px;
@@ -404,8 +404,8 @@ header .navbar-collapse ul.navbar-nav li.nav-item.dropdown.dropdown-single {
 
 .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
-    background-color: #FCE181 !important;
-    color: #000;
+    background-color: #c62524 !important;
+    color: white;
 }
 
 .sec-light-color {
@@ -424,7 +424,7 @@ header .navbar-collapse ul.navbar-nav li.nav-item.dropdown.dropdown-single {
 
 .new-company-sec {
     color: #fff;
-    background-color: #3bbbc212;
+    background-color: #212f6412;
 }
 
 .new-company-sec ul li {
@@ -433,7 +433,7 @@ header .navbar-collapse ul.navbar-nav li.nav-item.dropdown.dropdown-single {
 
 .my-portfolio-sec {
     padding: 30px 0;
-    background: #3bbbc2;
+    background: #212f64;
 }
 
 .new-company-sec .sec-heading-new {
@@ -453,7 +453,7 @@ header .navbar-collapse ul.navbar-nav li.nav-item.dropdown.dropdown-single {
 }
 
 .my-color {
-    color: #3bbbc2;
+    color: #212f64;
     line-height: 22px;
     font-weight: 700 !important
 }
@@ -479,7 +479,7 @@ header .navbar-collapse ul.navbar-nav li.nav-item.dropdown.dropdown-single {
     width: 150px;
     height: 40px;
     white-space: nowrap;
-    background-color: #3bbbc2;
+    background-color: #212f64;
     color: #fff;
     margin-right: 10px;
     font-size: 16px;
@@ -570,7 +570,7 @@ header .navbar-collapse ul.navbar-nav li.nav-item.dropdown.dropdown-single {
     margin-right: 10px;
     color: #232323;
     height: 330px;
-    background-color: #3bbbc22e;
+    background-color: #212f642e;
     border-radius: 10px;
     margin-top: 20px;
     padding: 15px 30px 38px
@@ -592,7 +592,7 @@ p a {
 
 .serbox-new:hover {
     color: #fff;
-    background-color: #026670
+    background-color: #212f64
 }
 
 .serbox-new:hover h4,
@@ -617,7 +617,7 @@ p a {
     width: 30px;
     height: 30px;
     color: #fff;
-    background-color: #206670;
+    background-color: #212f64;
     border-radius: 20px;
     border: none
 }
@@ -694,7 +694,7 @@ p a {
     overflow-anchor: none;
     color: #fff;
     text-transform: capitalize;
-    background-color: #3bbbc2;
+    background-color: #212f64;
     border: 0;
     border-radius: 10px;
     flex-direction: row-reverse;
@@ -717,7 +717,7 @@ p a {
     content: "+";
     color: #fff;
     text-align: center;
-    background: #3bbbc2;
+    background: #212f64;
     border-radius: 50%;
     flex-shrink: 0;
     margin: 0 9px;
@@ -731,7 +731,7 @@ p a {
 .frequently-asked-questions .accordion-body {
     color: #323232;
     background-color: #fff;
-    border: 1px solid #3bbbc2;
+    border: 1px solid #212f64;
     border-radius: 10px;
     padding: 1rem 1.25rem;
     font-size: 18.01px
@@ -793,7 +793,7 @@ p a {
 }
 
 .g-process-bg a {
-    color: #3bbbc2
+    color: #212f64
 }
 
 .g-services-bg .row {
@@ -874,7 +874,7 @@ p a {
 
 .cta-sec-new {
     position: relative;
-    background: #026670;
+    background: #212f64;
     padding-top: 100px;
     padding-bottom: 100px
 }
@@ -1031,7 +1031,7 @@ p a {
 }
 
 .in-violet-450 {
-    color: #3bbbc2 !important
+    color: #212f64 !important
 }
 
 .contact-flow__list-item {
@@ -1196,7 +1196,7 @@ section.services-together-wrap {
 }
 
 .editing-sec5-box-main-bg h4 {
-    color: #3bbbc2;
+    color: #212f64;
     font-size: 50px;
     line-height: 53px
 }
@@ -1303,7 +1303,7 @@ section.services-together-wrap {
 }
 
 .section-title h2 {
-    color: #3bbbc2;
+    color: #212f64;
     font-size: 50px
 }
 
@@ -1354,8 +1354,8 @@ section.services-together-wrap {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #FCE181 !important;
-    border: 2px solid #FCE181 !important
+    background-color: #c62524 !important;
+    border: 2px solid #c62524 !important
 }
 
 .book-editing-section .book-tab-img {
@@ -1435,8 +1435,8 @@ section.services-together-wrap {
 .btn-8 {
     text-transform: capitalize;
     color: #2d243e;
-    background-color: #3bbbc2;
-    border: 2px solid #3bbbc2;
+    background-color: #212f64;
+    border: 2px solid #212f64;
     border-radius: 50px;
     margin-right: 10px;
     padding: 10px 30px;
@@ -1447,7 +1447,7 @@ section.services-together-wrap {
 
 .btn-8:hover {
     background-color: #fff;
-    border: 1px solid #3bbbc2;
+    border: 1px solid #212f64;
     box-shadow: 0 0 #0000
 }
 
@@ -1557,7 +1557,7 @@ section.services-together-wrap {
 }
 
 .testimonials .content h3 {
-    color: #3bbbc2;
+    color: #212f64;
     font-size: 17.99px;
     font-weight: 600
 }
@@ -1712,7 +1712,7 @@ section.services-together-wrap {
 
 .contact-us .contact-us-heading h5 {
     text-transform: capitalize;
-    color: #3bbbc2;
+    color: #212f64;
     font-size: 60px;
     font-weight: 700
 }
@@ -1730,7 +1730,7 @@ section.services-together-wrap {
 }
 
 .contact-us .ways-to-connect .ways-to-connect-connect i {
-    color: #3bbbc2;
+    color: #212f64;
     font-size: 24px
 }
 
@@ -1808,7 +1808,7 @@ section.services-together-wrap {
     height: 65px;
     width: 229px;
     color: #fff;
-    background-color: #3bbbc2;
+    background-color: #212f64;
     border: #0000;
     border-radius: 50px;
     margin: 0 10px;
@@ -1844,7 +1844,7 @@ section.services-together-wrap {
     width: 178px;
     height: 52px;
     color: #fff;
-    background-color: #3bbbc2;
+    background-color: #212f64;
     border: #0000;
     border-radius: 50px;
     margin: 0 auto;
@@ -1870,7 +1870,7 @@ section.services-together-wrap {
 .banner .banner-content h2,
 .banner-content p {
     text-transform: capitalize;
-    color: #3bbbc2;
+    color: #212f64;
     margin: 0 0 50px;
     font-family: poppins;
     font-size: 24px;
@@ -1943,7 +1943,7 @@ section.services-together-wrap {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #0d6efd;
+    background: #212f64;
     opacity: .5;
     width: 100%;
     z-index: -1
@@ -2000,7 +2000,7 @@ section.services-together-wrap {
     font-family: 'Poppins';
     font-size: 30px;
     line-height: 28px;
-    color: #f49720;
+    color: #212f64;
     margin: 0 !important
 }
 
@@ -2083,7 +2083,7 @@ section.services-together-wrap {
     font-family: 'Poppins';
     font-size: 30px;
     line-height: 28px;
-    color: #f49720;
+    color: #212f64;
     margin: 0 !important
 }
 
@@ -2230,7 +2230,7 @@ section.services-together-wrap {
 .floatbutton .btns_wrap .chat_wrap span.icoo {
     color: #fff;
     vertical-align: middle;
-    background: linear-gradient(45deg, #3bbbc2, #3bbbc2);
+    background: linear-gradient(45deg, #212f64, #212f64);
     border-right: 1px solid #ded9d9;
     border-radius: 50px 0 0 50px;
     padding: 18px 20px 16px;
@@ -2288,7 +2288,7 @@ section.services-together-wrap {
     text-transform: uppercase;
     -ms-box-shadow: 0 0 40px #00000026;
     -o-box-shadow: 0 0 40px #00000026;
-    background: linear-gradient(45deg, #3bbbc2, #3bbbc2);
+    background: linear-gradient(45deg, #212f64, #212f64);
     border-radius: 30px 0 0 30px;
     margin-top: 198px;
     padding-top: 0;
@@ -2362,7 +2362,7 @@ section.services-together-wrap {
 .floatbutton .banner-form .ban-form input[type=submit] {
     color: #fff;
     text-align: center;
-    background: linear-gradient(45deg, #3bbbc2, #f39a28);
+    background: linear-gradient(45deg, #212f64, #f39a28);
     border: #0000;
     border-radius: 3px;
     margin: 20px 0 0;
@@ -2709,7 +2709,7 @@ section.services-together-wrap {
 
 @media only screen and (min-width: 768px) and (max-width:991px) {
     header .navbar-toggler {
-        background: #3bbbc2
+        background: white
     }
 
     header .navbar-expand-lg .navbar-collapse {
@@ -2721,7 +2721,7 @@ section.services-together-wrap {
     }
 
     header .navbar-collapse ul.navbar-nav li.nav-item {
-        border-bottom: 2px solid #3bbbc2
+        border-bottom: 2px solid #212f64
     }
 
     header .navbar-collapse ul.navbar-nav li.nav-item a.nav-link {
@@ -3044,7 +3044,7 @@ section.services-together-wrap {
 
 @media only screen and (min-width: 576px) and (max-width:767px) {
     header .navbar-toggler {
-        background: #3bbbc2
+        background: white
     }
 
     header .navbar-expand-lg .navbar-collapse {
@@ -3056,7 +3056,7 @@ section.services-together-wrap {
     }
 
     header .navbar-collapse ul.navbar-nav li.nav-item {
-        border-bottom: 2px solid #3bbbc2
+        border-bottom: 2px solid #212f64
     }
 
     header .navbar-collapse ul.navbar-nav li.nav-item a.nav-link {
@@ -3565,7 +3565,7 @@ section.services-together-wrap {
 
 @media only screen and (min-width: 300px) and (max-width:575px) {
     header .navbar-toggler {
-        background: #3bbbc2
+        background: white
     }
 
     header .navbar-expand-lg .navbar-collapse {
@@ -3577,7 +3577,7 @@ section.services-together-wrap {
     }
 
     header .navbar-collapse ul.navbar-nav li.nav-item {
-        border-bottom: 2px solid #3bbbc2
+        border-bottom: 2px solid #212f64
     }
 
     header .navbar-collapse ul.navbar-nav li.nav-item a.nav-link {
@@ -4072,7 +4072,7 @@ section.services-together-wrap {
 }
 
 footer {
-    background-color: #026670;
+    background-color: #212f64;
 }
 
 .footer_top {
@@ -4441,7 +4441,7 @@ footer {
 .card:hover .card-text,
 .card:hover .card-title {
     cursor: pointer;
-    background: #3bbbc2;
+    background: #212f64;
     color: #fff;
     transform: translateY(-4px)
 }
@@ -4490,8 +4490,8 @@ footer {
 
 .button-28 {
     appearance: none;
-    background-color: #3bbbc2;
-    border: 2px solid #3bbbc2;
+    background-color: #212f64;
+    border: 2px solid #212f64;
     border-radius: 7px;
     box-sizing: border-box;
     color: #fff;
@@ -4517,7 +4517,7 @@ footer {
 }
 
 .button-28:hover {
-    background-color: #FCE181;
+    background-color: #c62524;
     color: #fff;
     border: none;
 }
@@ -4642,7 +4642,7 @@ img.animatepulse {
 
 .testi-para-new::-webkit-scrollbar-thumb {
     border-radius: 15px;
-    background: #3bbbc2;
+    background: #212f64;
 }
 
 .testi-para-new::-webkit-scrollbar-track {
@@ -4705,15 +4705,15 @@ img.animatepulse {
 }
 
 .swiper-slide:nth-child(1n) {
-    background-color: #3bbbc2
+    background-color: #212f64
 }
 
 .swiper-slide:nth-child(2n) {
-    background-color: #0d589d
+    background-color: #c62524
 }
 
 .swiper-slide:nth-child(3n) {
-    background-color: #3bbbc2
+    background-color: #212f64
 }
 
 .swiper-slide:nth-child(4n) {
@@ -4721,7 +4721,7 @@ img.animatepulse {
 }
 
 .swiper-slide:nth-child(5n) {
-    background-color: #3bbbc2
+    background-color: #212f64
 }
 
 .swiper-slide:nth-child(6n) {
@@ -5085,7 +5085,7 @@ img.animatepulse {
 }
 
 .unbderline {
-    border-bottom: 4px solid #3bbbc2;
+    border-bottom: 4px solid #212f64;
     width: 200px;
     display: block;
     text-align: center;
@@ -5203,7 +5203,7 @@ img.animatepulse {
 }
 
 .servicesbox a {
-    color: #3bbbc2;
+    color: #212f64;
     text-decoration: underline !important;
     font-weight: 600;
     margin-top: 1.5rem;
@@ -5406,7 +5406,7 @@ footer {
 }
 
 .new-test-sec {
-    background: #3bbbc2;
+    background: #212f64;
 }
 
 #pricing-table {
@@ -5441,7 +5441,7 @@ footer {
     width: 100%;
     border-radius: 10px;
     height: auto;
-    background: #3bbbc2;
+    background: #212f64;
 }
 
 .box-top-section {
@@ -5491,7 +5491,7 @@ footer {
 }
 
 .plan-name span::-webkit-scrollbar-thumb {
-    background-color: #3bbbc2;
+    background-color: #212f64;
 }
 
 .box-features-section::-webkit-scrollbar-track {

@@ -26,31 +26,31 @@
                                 audience? Our Children's Book Editing service is here to ensure your literary creation
                                 is polished to perfection and captivates young hearts.</p>
                             <div class="banner-btns btn-darks mt-2 animate__animated animate__fadeInUp">
-                                <a class="bg-dark-btn btn btn-dark-new" href="tel:+1 (771) 203-5560"> Call Now</a>
+                                <a class="bg-dark-btn btn btn-dark-new" href="tel:(323) 591-4113"> Call Now</a>
                                 <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                             </div>
-                            <div class="trust-icons mt-4 animate__animated animate__fadeInUp">
+                            <!-- <div class="trust-icons mt-4 animate__animated animate__fadeInUp">
                                 <ul class="trust-wigdetul">
                                     <li>
                                         <a href="https://www.trustpilot.com/review/authorpublications.com" target="_blank"><img src="images/orm-1.png"></a>
-                                        <!-- <a href="https://www.sitejabber.com/reviews/authorpublications.com" target="_blank"><img src="images/orm-2.png"></a> -->
+                                        <a href="https://www.sitejabber.com/reviews/authorpublications.com" target="_blank"><img src="images/orm-2.png"></a>
                                         <a href="https://www.reviews.io/company-reviews/store/www.authorpublications.com" target="_blank"><img src="images/orm-3.png"></a>
                                         <a href="https://www.bark.com/en/us/company/author-publications/EBLAM/" target="_blank"><img src="images/orm-4.png" class="barkk"></a>
                                     </li>
                                 </ul>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>
                     <div class="col-12 col-xl-4 col-md-12">
-                        <form class="form_submission" style="padding: 5px;" method="POST" action="/leads/">
+                        <form class="form_submission" style="padding: 5px;" method="POST" action="/leads">
                             <div class="hero-banner-form">
                                 <div class="row d-flex align-items-center">
                                     <div class="col-md-3">
                                         <img src="images/my-images/off.png"
                                             class="percentfifty animatepulse animate__animated animate__jackInTheBox"
                                             style="width : auto; margin-top: -20px; margin-left: 0px;"
-                                            alt="50% Off - Native Book Authorss">
+                                            alt="50% Off - Native Book Authors">
                                     </div>
                                     <div class="col-md-9">
                                         <p class="">Fill Out This Brief Form To Get Your</p>
@@ -349,16 +349,16 @@
                                 class="btn btn-cta open_popup" style="background-color : #3bbbc2; padding : 6px 10px;">
                                 Get
                                 Consultation</a>
-                            <button class="btn btn-cta cta-btn2" href="javascript:void(0);"
-                                onclick="setButtonURL()">Live Chat</button>
+                            <button class="btn btn-cta cta-btn2" href="javascript:;"
+                                onclick="LiveChatWidget.call('maximize');">Live Chat</button>
                         </div>
-                        <a href="#" data-aos="fade-right" data-aos-delay="400" data-aos-easing="ease-in-out">
-                            <h6 class="badge my-3">Toll Free: +1 (771) 203-5560</h6>
+                        <a href="tel:3235914113" data-aos="fade-right" data-aos-delay="400" data-aos-easing="ease-in-out">
+                            <h6 class="badge my-3">Toll Free: (323) 591-4113</h6>
                         </a>
                     </div>
                     <div class="col-md-6">
                         <img src="images/my-images/cta-side-image.png" id="removeimg" class="my-cta-parallex"
-                            alt="Call To Action - Native Book Authorss">
+                            alt="Call To Action - Native Book Authors">
                     </div>
                 </div>
             </div>
@@ -417,7 +417,7 @@
                                             a lifelong love for reading.</p>
                                         <div data-aos="fade-right" data-aos-delay="300" data-aos-easing="ease-in-out"
                                             class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -440,7 +440,7 @@
                                             eliminate jargon, and cultivate age-appropriate vocabulary, creating a
                                             linguistic symphony that resonates with young readers.</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -463,7 +463,7 @@
                                             complement visuals, ensuring that every turn of the page creates a seamless
                                             and immersive storytelling experience.</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -485,7 +485,7 @@
                                             readers to nuanced language for middle graders, we ensure your book speaks
                                             the language of its young audience.</p>
                                         <div class="banner-btns btn-darks">
-                                            <a class="bg-dark-btn btn btn-dark-new" href="tel:+1 (771) 203-5560"> Call
+                                            <a class="bg-dark-btn btn btn-dark-new" href="tel:(323) 591-4113"> Call
                                                 Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
@@ -508,7 +508,7 @@
                                             experiences and perspectives into your story, we help children connect with
                                             characters from all walks of life.</p>
                                         <div class="banner-btns btn-darks"><a class="bg-dark-btn btn btn-dark-new"
-                                                href="tel:+1 (771) 203-5560"> Call Now</a>
+                                                href="tel:(323) 591-4113"> Call Now</a>
                                             <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                                         </div>
                                     </div>
@@ -867,7 +867,7 @@
                     </div>
                 </div>
                 <div class="justify-content-center pt-3 row text-center">
-                    <div class="col"><a class="bg-dark-btn btn btn-dark-new mr-3" href="tel:+1 (771) 203-5560"> Call
+                    <div class="col"><a class="bg-dark-btn btn btn-dark-new mr-3" href="tel:(323) 591-4113"> Call
                             Now</a>
                         <a class="button-28 open_popup" role="button"> Get Free Consultation </a>
                     </div>
@@ -957,7 +957,7 @@
                                                 <h4>John Adams.</h4>
                                             </div>
                                         </div>
-                                        <p class="testi-para-new">Working with Native Book Authorss has been an absolute
+                                        <p class="testi-para-new">Working with Native Book Authors has been an absolute
                                             pleasure. Their children's book editors transformed my story into a
                                             heartwarming adventure that resonates with young readers. They provided
                                             valuable feedback on language and pacing, making the story perfect for my
@@ -983,7 +983,7 @@
                                                 <h4>Emily Johnson.</h4>
                                             </div>
                                         </div>
-                                        <p class="testi-para-new">Native Book Authorss edited my picture book with exceptional
+                                        <p class="testi-para-new">Native Book Authors edited my picture book with exceptional
                                             attention to detail. Their children's book editors ensured the story's
                                             language and content were age-appropriate and captivating. The final result
                                             is an enchanting book that leaves a lasting impression on young readers. I
@@ -1011,7 +1011,7 @@
                                             </div>
                                         </div>
                                         <p class="testi-para-new">I am thrilled with the children's book editing service
-                                            provided by Native Book Authorss. Their editors refined my middle-grade novel,
+                                            provided by Native Book Authors. Their editors refined my middle-grade novel,
                                             enhancing the pacing and emotional depth of the story. They were attentive
                                             to my vision and provided valuable insights. The edited book now engages
                                             young readers in a meaningful way. I highly recommend their services to all
@@ -1107,7 +1107,7 @@
                                 <p style="color : #000">Schedule an appointment with our book writers and start
                                     writing your
                                     first draft.</p>
-                                <form class="form_submission" method="POST" action="/leads/">
+                                <form class="form_submission" method="POST" action="/leads">
                                     <div class="mb-4"><input class="form-control footer-form" name="name"
                                             placeholder="Full Name" required></div>
                                     <div class="mb-4"><input type="email" class="form-control footer-form" name="email"
